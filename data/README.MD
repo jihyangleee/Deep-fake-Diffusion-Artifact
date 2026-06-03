@@ -2,8 +2,8 @@
 
 This folder contains the deep learning datasets used in this project. Due to storage limits, the actual data files are hosted on Google Drive.
 
-##  Dataset Access (Google Drive)
-- [Link]('https://drive.google.com/drive/folders/195bFDcqPE6EA0yreicHfaE_PjMiBgSZO?usp=drive_link')
+##  Data Download
+- [Google Drive Shared Folder](https://drive.google.com/drive/folders/195bFDcqPE6EA0yreicHfaE_PjMiBgSZO?usp=drive_link)
 
 ## Dataset Overview
 The dataset is derived from the **Kaggle FaceForensics++ (FF++) dataset (c23 HQ)** and has been preprocessed through the following pipeline:
